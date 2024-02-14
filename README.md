@@ -1,2 +1,6 @@
 EndPoint : Distributeur?nomRecette=Expresso
 Manque de temps pour faire un code plus propre ...
+
+
+todo à chaud :
+ajouter une lib pour le code métier. Et y mettre le calcul du prix dedans au lieu de le mettre dans le controller ...
